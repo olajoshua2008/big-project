@@ -1,2 +1,2 @@
 # big-project
-ecommerce websirte
+ecommerce website
